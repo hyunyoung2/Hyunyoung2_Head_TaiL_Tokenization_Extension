@@ -42,7 +42,7 @@ For dataset/o1_train/
 
   for 01_kcc_150_only_Train,[KCC_150_Head_Tail_debugging_Train_corpus](https://drive.google.com/file/d/1uNA-f6OL2NQPvOpVu2pHPQ1lTrxfSe7d/view?usp=sharing)
   
-  for 02_kcc_150_n_q28_only_Train,[KCC_150_Head_Tail_debugging_Train_corpus](https://drive.google.com/file/d/1rryHxwi-_T-NRtl3Q-cM3SJkD2JiAPvb/view?usp=sharing)
+  for 02_kcc_q28_n_150_only_Train,[KCC_Q28_AND_KCC150_Head_Tail_debugging_Train_corpus](https://drive.google.com/file/d/1rryHxwi-_T-NRtl3Q-cM3SJkD2JiAPvb/view?usp=sharing)
 
 
 For dataset/o2_test/
@@ -51,4 +51,4 @@ For dataset/o2_test/
 
   for 01_kcc_150_only_Test,[KCC_150_Head_Tail_debugging_Test_corpus](https://drive.google.com/file/d/1p97ywUJfDs6yYDzI811thhoHlMWShpDa/view?usp=sharing)
   
-  for 02_kcc_150_n_q28_only_Test,[KCC_150_Head_Tail_debugging_Test_corpus](https://drive.google.com/file/d/1O-bUFrTws6ywVaWyrgPLv52qd9Cu2s2w/view?usp=sharing)
+  for 02_kcc_q28_n_150_only_Test,[KCC_Q28_AND_KCC150_Head_Tail_debugging_Test_corpus](https://drive.google.com/file/d/1O-bUFrTws6ywVaWyrgPLv52qd9Cu2s2w/view?usp=sharing)
