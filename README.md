@@ -1,4 +1,4 @@
-## Head-Tail Tokenization 
+## Head-Tail Tokenizatio Extension 
 
 
 If you want to make dictionary, type in 
