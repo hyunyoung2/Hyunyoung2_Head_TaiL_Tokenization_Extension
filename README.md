@@ -45,7 +45,7 @@ Head_Tail Without POS
 
   for 01_kcc_150_only_Train_and_Test,[KCC_150_Head_Tail_Train_and_Test_corpus](https://drive.google.com/file/d/1DHY-FXWKffquE6NsvzIGmi2VWEASoPPs/view?usp=sharing)
   
-  for 02_kcc_150_n_q28_only_Train_and_Test,[KCC_Q28_AND_KCC150_Head_Tail_Train_and_Test_corpus](https://drive.google.com/file/d/1JVee3VOg7P7sXpvQDMma_G_D1xfLi-5v/view?usp=sharing)
+  for 02_kcc_q28_n_150_only_Train_and_Test,[KCC_Q28_AND_KCC150_Head_Tail_Train_and_Test_corpus](https://drive.google.com/file/d/1JVee3VOg7P7sXpvQDMma_G_D1xfLi-5v/view?usp=sharing)
 
 
 Head_Tail With POS 
@@ -54,10 +54,4 @@ Head_Tail With POS
 
   for 01_kcc_150_only_Train_and_Test,[KCC_150_Head_Tail_Train_and_Test_corpus](https://drive.google.com/file/d/1Arf2-jgTnhHC0JPaU7mz-FODsjP4CdgA/view?usp=sharing)
   
-  for 02_kcc_150_n_q28_only_Train_and_Test,[KCC_Q28_AND_KCC150_Head_Tail_Train_and_Test_corpus]()
-
-
-
-
-
-
+  for 02_kcc_q28_n_150_only_Train_and_Test,[KCC_Q28_AND_KCC150_Head_Tail_Train_and_Test_corpus](https://drive.google.com/file/d/12DTGoqQWsosRXeWjicQgn9t-wnWdg6t4/view?usp=sharing)
