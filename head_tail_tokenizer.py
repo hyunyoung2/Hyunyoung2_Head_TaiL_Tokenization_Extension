@@ -896,9 +896,10 @@ def test(test_file_path, dict_file_path, test_result_file_path, dict_type="None"
         print("\n===== Reading the file {} is done ! =====".format(_val))
     
     ## for N-gram search dict
-    total_n_gram_dict = dict_read(loc_of_dict=dict_file_path, type_of_dict=dict_type)
-
-    ##_, _, _dict = read_n_gram_dict(path=dict_file_path, dict_idx=dict_type)
+    if dict_type != DICT_TYPES[0]: # UNI
+        total_n_gram_dict = dict_read(loc_of_dict=dict_file_path, type_of_dict=dict_type)
+    else:
+        _, _, _dict = read_n_gram_dict(path=dict_file_path, dict_idx=dict_type)
 
 
     assert isinstance(test_result_file_path, str), "The test_result_file_path is wrong in 'test' function: the type of path is {}, the value is {}".format(type(test_result_file_path), test_result_file_path)
@@ -963,10 +964,11 @@ def test(test_file_path, dict_file_path, test_result_file_path, dict_type="None"
             else: 
                 assert False, "Your dict types is wrong in matching, dict type is {}".format(dict_type) 
             
-            ## n-gram searach      
-            result, original_word_num, original_word_num_matched = match_with_total_dict(input_sent=temp_sent, ngram_data=ngram_pair, total_n_gram_dict_data=total_n_gram_dict, _ground_truth=ground_truth_toks, dict_types=dict_type)
-
-            ##result, original_word_num, original_word_num_matched = match_with_dict(temp_sent, ngram_pair, _dict, ground_truth_toks)
+            ## n-gram searach
+            if dict_type != DICT_TYPES[0]: # UNI
+                result, original_word_num, original_word_num_matched = match_with_total_dict(input_sent=temp_sent, ngram_data=ngram_pair, total_n_gram_dict_data=total_n_gram_dict, _ground_truth=ground_truth_toks, dict_types=dict_type)
+            else:
+                result, original_word_num, original_word_num_matched = match_with_dict(temp_sent, ngram_pair, _dict, ground_truth_toks)
 
 
             ## Check if the length of ground_truth and output of our model is the same or not
