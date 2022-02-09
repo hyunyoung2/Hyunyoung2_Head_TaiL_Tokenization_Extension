@@ -29,14 +29,14 @@ run this code line:
 
 If you want the original full dataset, access the following URL:
 
-For dataset/oo_total_data/
+For dataset/00_total_data/
 
   for 00_kcc_q28_only,[KCC_Q28_Head_Tail_debugging_corpus](https://drive.google.com/file/d/1fmEuKuAI1ctGjdWjqEzOoUVBNnvxXDqL/view?usp=sharing)
 
   for 01_kcc_150_only,[KCC_150_Head_Tail_debugging_corpus](https://drive.google.com/file/d/1RMGay8-EPhIpIgLrLZmrulFTgtlXNDZN/view?usp=sharing)
 
 
-For dataset/o1_train/
+For dataset/01_train/
   
   for 00_kcc_q28_only_Train,[KCC_Q28_Head_Tail_debugging_Train_corpus](https://drive.google.com/file/d/1l2kslo69AOZIcwoM1Y9WL4kRjAHnOvaN/view?usp=sharing)
 
@@ -45,7 +45,7 @@ For dataset/o1_train/
   for 02_kcc_q28_n_150_only_Train,[KCC_Q28_AND_KCC150_Head_Tail_debugging_Train_corpus](https://drive.google.com/file/d/1rryHxwi-_T-NRtl3Q-cM3SJkD2JiAPvb/view?usp=sharing)
 
 
-For dataset/o2_test/
+For dataset/02_test/
   
   for 00_kcc_q28_only_Test,[KCC_Q28_Head_Tail_debugging_Test_corpus](https://drive.google.com/file/d/11z2DEKwe0kLlCVmP3NWguUcZ6dTqZOVe/view?usp=sharing)
 
