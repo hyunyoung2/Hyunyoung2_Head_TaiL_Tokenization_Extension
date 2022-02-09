@@ -7,6 +7,12 @@ If you want to make dictionary, type in
 python3  make_dict.py
 ```
 
+** If you want to run n-gram extension, you have to make n-gram dictionaries. 
+
+for example, If running left-bigram extension of Head-Tail tokenization, 
+
+first of all, make uni dictionary and left bigram dictionary and then run the command below with left-bigram option
+
 If you want to experiment test data, type in 
 
 ```
